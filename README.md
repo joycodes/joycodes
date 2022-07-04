@@ -3,7 +3,7 @@
 
 <h3> &nbsp;👩🏾‍💻 About Me </h3>
 
-I am current student of Software Development at Moringa School  with a background in Marketing from United States International University - Africa  💃 Passionate about programming and excited for the future in this space🦸‍.
+I am a current student of Software Development at Moringa School  with a background in Marketing from United States International University - Africa  💃 Passionate about programming and excited for the future in this space🦸‍.
 
 
 
