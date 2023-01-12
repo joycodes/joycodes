@@ -3,7 +3,7 @@
 
 <h3> &nbsp;👩🏾‍💻 About Me </h3>
 
-I am a graduate of Software Development from Moringa School with a background in International Business Administration from United States International University - Africa  💃 Passionate about programming and excited about the future in this space🦸‍.
+I am a graduate of Software Development from Moringa School with a background in International Business Administration from United States International University - Africa  💃 Currently working on building web services (rest & SOAP APIs).
 
 
 
