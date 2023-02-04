@@ -28,6 +28,9 @@ I am a graduate of Software Engineering from Moringa School with a background in
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-14354C?style=for-the-badge&logo=postgreSQL&logoColor=blue" style="margin: 0 5% 5% 0">&nbsp;
+  <img src="https://img.shields.io/badge/C#-E34F26?style=for-the-badge&logo=c#&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-14354C?style=for-the-badge&logo=MySQL&logoColor=blue" style="margin: 0 5% 5% 0">&nbsp;
+
  
 </p>
 </div>
@@ -41,6 +44,7 @@ I am a graduate of Software Engineering from Moringa School with a background in
     <img src="https://img.shields.io/badge/figma-a259ff?style=for-the-badge&logo=figma&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
     <img src="https://img.shields.io/badge/canva-3868e8?style=for-the-badge&logo=canva&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
     <img src="https://img.shields.io/badge/git-f64d27?style=for-the-badge&logo=git&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
+    <img src="https://img.shields.io/badge/postman-f64d27?style=for-the-badge&logo=postman&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
 </div>
  
 <br>
