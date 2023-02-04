@@ -6,17 +6,12 @@
 I am a graduate of Software Engineering from Moringa School with a background in International Business Administration from United States International University - Africa  💃 Currently working on building web services (rest & SOAP APIs) using C# as the main programming language.
 
 
-
-
 <br>
 <div align="center">
   <img height="150rem" width="auto" src="https://github-readme-stats.vercel.app/api?username=joycodes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150rem" width="auto"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joycodes&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <br>
-<br>
-
-
 
 
 ### Languages and Frameworks:
@@ -61,6 +56,9 @@ I am a graduate of Software Engineering from Moringa School with a background in
 <div> 
  <a href="mailto:joynguttu@gmail.com" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> &nbsp;
  <a href="https://www.linkedin.com/in/jnguttu/" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;
- <a href="https://twitter.com/joyceposts" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/@joyceposts-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a> &nbsp;
 
+ <a href="https://twitter.com/joyceposts" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/@AjedidahMwanzi-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a> &nbsp;
+<!--  <a href="https://samuel-martins.medium.com/" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+ -->
 </div>
+
