@@ -3,7 +3,7 @@
 
 <h3> &nbsp;👩🏾‍💻 About Me </h3>
 
-I am a graduate of Software Engineering from Moringa School with a background in International Business Administration from United States International University - Africa  💃 Currently working on building web services (rest & SOAP APIs) using C# as the main programming language.
+I am a graduate of Software Engineering from Moringa School with a background in International Business Administration from United States International University - Africa  💃 Currently working as fullstack developer.
 
 
 <br>
