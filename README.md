@@ -55,7 +55,7 @@ I am a graduate of Software Engineering from Moringa School with a background in
 
 ### Connect With Me:
 
-<br>
+<!--<br>-->
 <div> 
 <!-- <a href="mailto:joynguttu@gmail.com" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> &nbsp; -->
  <a href="https://www.linkedin.com/in/jnguttu/" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;
